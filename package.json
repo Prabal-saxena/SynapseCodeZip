@@ -1,0 +1,16 @@
+{
+  "name": "dwscaler",
+  "version": "1.0.0",
+  "description": "Timer based scaling functionality for SQL Data Warehouse",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
